@@ -2,14 +2,15 @@
 A Android Contacts App based on Material Design
 
 ###效果图
-![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img1.png)                      
-####When you click item,you will see the detail info                
+
+ - ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img1.png)                      
+ - When you click item,you will see the detail info                
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img4.png)              
-###scroll to -->               
+ - scroll to -->               
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img5.png)              
-###The following are adding and editing contact function           
+ - The following are adding and editing contact function           
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img3.png)              
-###This is drawer          
+ - This is drawer          
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img2.png)              
 
 License
