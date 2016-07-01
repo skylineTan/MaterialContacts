@@ -1,8 +1,8 @@
 ### SimplifyContacts
 A Android Contacts App based on Material Design
 
- - 效果图
- ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img1.png)                      
+ - 效果图         
+ ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img1.png)                             
  - When you click item,you will see the detail info                
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img4.png)              
  - scroll to -->               
