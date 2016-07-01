@@ -9,7 +9,7 @@ A Android Contacts App based on Material Design
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img5.png)              
  - The following is to add and edit contacts' infomation(click Setting to add contacts)          
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img3.png)              
- - This is drawer          
+ - This is a drawer          
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img2.png)              
 
 License
