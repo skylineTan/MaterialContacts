@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_coworkers"
+            android:icon="@mipmap/ic_menu_worker"
+            android:title="Coworkers"/>
+        <item
+            android:id="@+id/nav_family"
+            android:icon="@mipmap/ic_menu_family"
+            android:title="Family"/>
+        <item
+            android:id="@+id/nav_friends"
+            android:icon="@mipmap/ic_menu_worker"
+            android:title="Friends"/>
+        <item
+            android:id="@+id/nav_my_contacts"
+            android:icon="@mipmap/ic_menu_contact"
+            android:title="MyContacts"/>
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_weibo"
+                android:icon="@mipmap/ic_menu_weibo"
+                android:title="Weibo"/>
+            <item
+                android:id="@+id/nav_wechat"
+                android:icon="@mipmap/ic_menu_wechat"
+                android:title="WeChat"/>
+            <item
+                android:id="@+id/nav_qq"
+                android:icon="@mipmap/ic_menu_qq"
+                android:title="QQ"/>
+        </menu>
+    </item>
+
+</menu>

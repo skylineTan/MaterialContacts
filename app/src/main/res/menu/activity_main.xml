@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="80"
+        android:title="搜索"
+        android:icon="@mipmap/ic_search"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_add"
+        android:title="@string/action_add"
+        android:orderInCategory="100"
+        app:showAsAction="never"/>
+</menu>

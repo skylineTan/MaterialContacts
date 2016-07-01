@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SimplifyContacts</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_discard">Discard Edit</string>
+    <string name="action_add">Add Contact</string>
+    <string name="error_load">Load Failed~</string>
+    <string name="empty_data">Empty Data~</string>
+
+    <string name="name_activity_add_contact">Edit Contact</string>
+</resources>
