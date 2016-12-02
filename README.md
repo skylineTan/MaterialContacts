@@ -5,7 +5,6 @@ A Android Contacts App based on Material Design
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img1.png)
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img4.png)
 ![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img3.png)
-![image](https://raw.githubusercontent.com/skylineTan/SimplifyContacts/master/images/img5.png)
 
 License
 =======
