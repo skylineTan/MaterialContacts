@@ -1,5 +1,5 @@
 ### SimplifyContacts
-A Android Contacts App based on Material Design
+An Android Contacts App based on Material Design
 
 ### 效果图
 
